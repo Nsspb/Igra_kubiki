@@ -1,0 +1,19 @@
+{
+  "name": "kubiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nsspb/igra_kubiki.git"
+  },
+  "author": "Konstantin Zubenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nsspb/igra_kubiki/issues"
+  },
+  "homepage": "https://github.com/Nsspb/igra_kubiki#readme"
+}
